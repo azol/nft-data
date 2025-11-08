@@ -1,0 +1,31 @@
+{
+  "name": "Crescent of the Whispering Forest",
+  "description": "Deep within the Whispering Forest, a luminous crescent descends low over the enchanted stream. The air glows with soft azure light as the forest awakens with bioluminescent whispers. This phenomenon marks the Night of Echoes, when ancient spirits move through the trees and the moon delivers visions to those who listen.",
+  "image": "https://azol.github.io/nft-data/nft/c/t1R7nM4vP6xC9zL2bQ8jD5hy/2/image.webp",
+  "attributes": [
+    {
+      "trait_type": "Sky Phenomenon",
+      "value": "Luminous Crescent"
+    },
+    {
+      "trait_type": "Biome",
+      "value": "Whispering Forest"
+    },
+    {
+      "trait_type": "Light Source",
+      "value": "Moon Echo Glow"
+    },
+    {
+      "trait_type": "Color Palette",
+      "value": "Azure & Deep Midnight Blue"
+    },
+    {
+      "trait_type": "Water Reflection",
+      "value": "Moonlit Stream"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ]
+}

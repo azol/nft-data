@@ -1,0 +1,35 @@
+{
+  "name": "Solar Spiral of the Eldertree Valley",
+  "description": "A radiant Solar Spiral opens above the valley of the Eldertree, distorting light and space with ancient cosmic energy. The lone centuries-old tree stands as a conduit of this force, while the glowing river forms a golden path toward the unknown. The appearance of the Spiral is a sign of great change in Aurelion.",
+  "image": "https://azol.github.io/nft-data/nft/c/t1R7nM4vP6xC9zL2bQ8jD5hy/1/image.webp",
+  "attributes": [
+    {
+      "trait_type": "Sky Phenomenon",
+      "value": "Solar Spiral"
+    },
+    {
+      "trait_type": "Main Element",
+      "value": "Eldertree"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Radiant Sunset"
+    },
+    {
+      "trait_type": "Terrain Type",
+      "value": "Highland Valley"
+    },
+    {
+      "trait_type": "Water Reflection",
+      "value": "Solar Path"
+    },
+    {
+      "trait_type": "Color Palette",
+      "value": "Gold, Sapphire & Autumn Red"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ]
+}

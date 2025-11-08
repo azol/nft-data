@@ -1,0 +1,35 @@
+{
+  "name": "Celestial Dawn over Miralen Peak",
+  "description": "A rare celestial event known as the Burning Nebula rises above Miralen Peak, bathing the mountain in warm astral fire. The lake becomes a living mirror, reflecting the nebula’s shimmering glow. This moment is considered a blessing in Aurelion and a symbol of awakening natural power.",
+  "image": "https://azol.github.io/nft-data/nft/c/t1R7nM4vP6xC9zL2bQ8jD5hy/0/image.webp",
+  "attributes": [
+    {
+      "trait_type": "Sky Phenomenon",
+      "value": "Burning Nebula"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Astral Sunrise"
+    },
+    {
+      "trait_type": "Main Element",
+      "value": "Mountain Peak"
+    },
+    {
+      "trait_type": "Reflective Surface",
+      "value": "Golden Lake"
+    },
+    {
+      "trait_type": "Constellation Presence",
+      "value": "High"
+    },
+    {
+      "trait_type": "Color Palette",
+      "value": "Deep Blues & Ember Orange"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Bloodmoon over the Azure Flow",
+  "description": "A colossal crimson moon rises above the horizon of Aurelion, illuminating the land with fiery celestial glow. The ancient tree stands vigil over the Azure Flow, a calm astral waterway whose surface mirrors the Bloodmoon’s light. When the Bloodmoon appears, the Azure Flow becomes a conduit of cosmic resonance, guiding travelers toward forgotten realms.",
+  "image": "https://azol.github.io/nft-data/nft/c/t1R7nM4vP6xC9zL2bQ8jD5hy/3/image.webp",
+  "attributes": [
+    {
+      "trait_type": "Sky Phenomenon",
+      "value": "Bloodmoon"
+    },
+    {
+      "trait_type": "Main Element",
+      "value": "Ancient Tree"
+    },
+    {
+      "trait_type": "Energy Source",
+      "value": "Azure Flow"
+    },
+    {
+      "trait_type": "Color Palette",
+      "value": "Crimson, Violet & Deep Indigo"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Astral Twilight"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}
